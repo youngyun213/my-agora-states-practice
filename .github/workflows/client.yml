@@ -34,3 +34,4 @@ jobs:
             build s3://my-agora-states-practice \
             --delete
         working-directory: ./my-agora-states-client
+        
